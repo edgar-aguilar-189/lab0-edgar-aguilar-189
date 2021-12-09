@@ -1,0 +1,9 @@
+Name: Edgar Aguilar
+Lab Name: Lab 0
+Date Assigned: Aug 30, 2021
+Date Completed: Sept 3, 2021
+Status: Completed.
+
+Outstanding Issues: None
+Major Impediments: None
+Feedback Comments: None
